@@ -1,0 +1,37 @@
+.text-center{
+    text-align: center;
+    background-color: coral;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  .top1{
+    background-color: blue;
+    color: #0de9f0;
+    text-align: center;
+}
+.container{
+    background-color: rgb(55, 71, 71);
+}
+.last{
+  text-align: center;
+  color: rgb(204, 213, 220);
+  background-color: rgb(50, 42, 42);
+}
+  
